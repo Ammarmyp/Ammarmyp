@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ammarmyp&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 
   <h3>
-    👋 Hello! I'm <strong>Ammar</strong>, a Full-Stack Developer passionate about crafting beautiful, functional, and user-focused web apps.
+    👋 Hello! I'm <strong>Ammar</strong>, a Full-Stack Developer passionate about learning and building apps.
   </h3>
 
   <p>🌱 Currently learning <strong><a href="https://hono.dev/" target="_blank">Hono.js</a></strong></p>
