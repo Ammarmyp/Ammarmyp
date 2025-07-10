@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Ammarmyp/github-widgetbox">
+  <a href="https://github.com/Ammarmyp">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Ammarmyp&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
   </a>
 </p>
