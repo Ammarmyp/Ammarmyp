@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Ammarmyp">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Ammarmyp&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
-  </a>
-</p>
-<div align="center">
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ammarmyp&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Ammarmyp)
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Lexend&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ammar+Mohammed;" alt="Typing SVG" />
   </h1>
