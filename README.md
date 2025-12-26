@@ -8,8 +8,6 @@
     👋 Hello! I'm <strong>Ammar</strong>, a Full-Stack Developer passionate about learning and building functional apps.
   </h3>
 
-  <p>🌱 Currently learning <strong><a href="https://hono.dev/" target="_blank">Hono.js</a></strong></p>
-
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Ammarmyp&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 
