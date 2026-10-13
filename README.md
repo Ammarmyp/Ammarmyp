@@ -28,7 +28,7 @@ I build production web and mobile products, from APIs and auth to cross-platform
 
 - 📍 Based in **Addis Ababa**
 - 🎓 B.Sc. in Software Engineering at **Addis Ababa Science and Technology University**
-- 🟢 Open to **full-time roles** and **freelance projects**
+- 🟢 Open to **full-time and remote roles** and **freelance projects**
 
 <br/>
 
