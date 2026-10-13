@@ -32,15 +32,6 @@ I build production web and mobile products, from APIs and auth to cross-platform
 
 <br/>
 
-## Experience
-
-| Role | Company | Period |
-| :-- | :-- | :-- |
-| **Full Stack Software Engineer** | MJ Talent Search · Remote | Aug 2026 – Present |
-| **Mobile App Developer** | Digital Addis | Mar 2026 – Present |
-
-<br/>
-
 ## Capabilities
 
 | | |
@@ -61,7 +52,7 @@ I build production web and mobile products, from APIs and auth to cross-platform
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ammarmyp&label=Profile+views&color=b08f7a&labelColor=0a0a0a&style=flat-square" alt="Profile views" />
+  <img src="https://gitviews.com/user/Ammarmyp.svg?style=flat-square&label=Profile%20views&label-color=%230a0a0a&color=%23b08f7a&base=428" alt="Profile views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=60&section=footer&text=Let%27s%20build%20something%20great&fontColor=b08f7a&fontSize=16&fontAlignY=50" width="100%" alt="" />
