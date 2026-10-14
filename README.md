@@ -15,7 +15,7 @@
 <a href="https://ammarmohammed.work"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=flat-square&logo=safari&logoColor=b08f7a&labelColor=0a0a0a&color=b08f7a" alt="Portfolio" /></a>
 <a href="mailto:ammarmyp@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=b08f7a&labelColor=0a0a0a&color=b08f7a" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/ammar-mohammed-ab91671b6"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=b08f7a&labelColor=0a0a0a&color=b08f7a" alt="LinkedIn" /></a>
-<a href="https://www.resume.lol/share/9803sbk"><img src="https://img.shields.io/badge/Resume-0a0a0a?style=flat-square&logo=readthedocs&logoColor=b08f7a&labelColor=0a0a0a&color=b08f7a" alt="Resume" /></a>
+<a href="https://ammarmohammed.work/Ammar_Mohammed.pdf"><img src="https://img.shields.io/badge/Resume-0a0a0a?style=flat-square&logo=readthedocs&logoColor=b08f7a&labelColor=0a0a0a&color=b08f7a" alt="Resume" /></a>
 <a href="https://t.me/PAAMYY"><img src="https://img.shields.io/badge/Telegram-0a0a0a?style=flat-square&logo=telegram&logoColor=b08f7a&labelColor=0a0a0a&color=b08f7a" alt="Telegram" /></a>
 
 </div>
